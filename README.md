@@ -2,7 +2,7 @@
 
 Discover my games creation => https://play.google.com/store/apps/developer?id=Ephoria+Games&hl=fr&gl=US
 
-![alt codewars badge](https://www.codewars.com/users/RemySd/badges/large "Badge codewars")
+![alt codewars badge](https://www.codewars.com/users/RemySd/badges/large "Codewars Badge")
 
 <!--
 **RemySd/remysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
