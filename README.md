@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Discover my games creation => https://play.google.com/store/apps/developer?id=Ephoria+Games&hl=fr&gl=US
+Discover my games creation => https://artixelpgames.com/
 
 ![alt codewars badge](https://www.codewars.com/users/RemySd/badges/large "Codewars Badge")
 
