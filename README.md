@@ -2,6 +2,8 @@
 
 Discover my games creation => https://artixelpgames.com/
 
+![alt Artixelp Games Banner](https://github.com/RemySd/remysd/blob/main/artixelpgames-banner.png)
+
 <!--
 ![alt codewars badge](https://www.codewars.com/users/RemySd/badges/large "Codewars Badge")
 
