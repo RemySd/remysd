@@ -2,9 +2,9 @@
 
 Discover my games creation => https://artixelpgames.com/
 
+<!--
 ![alt codewars badge](https://www.codewars.com/users/RemySd/badges/large "Codewars Badge")
 
-<!--
 **RemySd/remysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
